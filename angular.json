@@ -27,6 +27,7 @@
               }
             ],
             "styles": [
+              "@angular/material/prebuilt-themes/rose-red.css",
               "src/styles.css"
             ],
             "scripts": []
@@ -85,6 +86,7 @@
               }
             ],
             "styles": [
+              "@angular/material/prebuilt-themes/rose-red.css",
               "src/styles.css"
             ],
             "scripts": []
@@ -92,5 +94,9 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "439f22a2-41fc-4824-8540-fef3948c8314"
   }
+  
 }

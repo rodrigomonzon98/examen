@@ -1,0 +1,109 @@
+/* Reset de Estilos */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /* Estilos Generales */
+  body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f9f9f9;
+    color: #333;
+  }
+  
+  .container {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+  
+  /* Estilos de Secciones */
+  .informacion{
+    background-color: #ddd;
+    color: #0d0404;
+    padding: 80px 0;
+    text-align: center;
+  }
+
+  .informacion ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+  }
+
+  .informacion li{
+    font-size: 1.2em;
+    margin-bottom: 10px;
+  }
+  
+  .objetivo {
+    background-color: #f9f9f9;
+    padding: 60px 0;
+    text-align: center;
+  }
+  
+  
+  .exp{
+    background-color: #ddd;
+    padding: 80px 0;
+    text-align: center;
+  }
+
+  .exp ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+  }
+
+  .exp li {
+    font-size: 1.2em;
+    margin-bottom: 10px; 
+  }
+
+  
+  .habilidades {
+    background-color: #f9f9f9;
+    color: #110101;
+    padding: 80px 0;
+    text-align: center;
+  }
+
+  .certificaciones{
+    background-color:#ddd ;
+    padding: 60px 0;
+    text-align: center;
+  }
+
+  .academica {
+    background-color: #f9f9f9;
+    padding: 60px 0;
+    text-align: center;
+  }
+  
+  section h2{
+    color: #e30c0c; /* Texto blanco */
+    font-size: 28px;
+    margin-bottom: 20px;
+    text-transform: uppercase; /* Convertir texto a mayúsculas */
+  }
+  
+  /* Estilos del Footer */
+  .footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+  }
+
+  .bienvenida{
+    background-color: rgb(2, 2, 161);
+    color:#fff;
+    text-align: center;
+    padding: 20px 0;
+  }
+
+ 
